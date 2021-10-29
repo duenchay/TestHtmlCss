@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex-container{
+    border: 5px solid #000;
+    height: 220px;
+    display: flex;
+}
+.flex-items{
+    background: gold;
+    width: 100px;
+    height: 100px;
+    padding: 2em;
+    text-align: center;
+    margin: 10px;
+}
